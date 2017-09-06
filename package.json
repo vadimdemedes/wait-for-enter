@@ -1,6 +1,6 @@
 {
 	"name": "wait-for-enter",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Wait until user presses Enter",
 	"license": "MIT",
 	"repository": "vadimdemedes/wait-for-enter",
